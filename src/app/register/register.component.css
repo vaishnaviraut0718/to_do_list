@@ -1,0 +1,31 @@
+
+.container {
+    max-width: 700px;
+    max-height: 600px;
+  }
+  
+  .card {
+    border-radius: 15px;
+  }
+  
+  .card-title {
+    color: #007bff;
+  }
+  
+  .card-footer a {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .card-t1{
+    color: #233c56;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  .gradient-background{
+    background: linear-gradient(to right, #d9b2ec, #feb47b); 
+    height:100vh;
+    width:100%; 
+  }
+  

@@ -1,0 +1,85 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "task_name": "helloo !! heyyy"
+    },
+    {
+      "id": 2,
+      "task_name": "how are you"
+    },
+    {
+      "id": 3,
+      "task_name": "what is your name?"
+    },
+    {
+      "id": 4,
+      "task_name": "good evening"
+    }
+  ],
+  "login": [
+    {
+      "name": "Emily",
+      "email": "emily@example.com",
+      "password": "emily_pass",
+      "id": "dbfd"
+    },
+    {
+      "name": "vaishnavi",
+      "email": "vaish@gmail.com",
+      "password": "vaishu",
+      "id": "S021s2a"
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": "1AXD5MV"
+    },
+    {
+      "name": "sayali",
+      "email": "sayli@gmail.com",
+      "password": "sayali",
+      "id": "DkwSyAc"
+    },
+    {
+      "name": "kartik",
+      "email": "kartik@gmail.com",
+      "password": "kartik",
+      "id": "7FvXC_2"
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "abcdef",
+      "id": "slDdmij"
+    },
+    {
+      "name": "kajal",
+      "email": "kajal@gmail.com",
+      "password": "kajall",
+      "id": "ZLG-zW7"
+    },
+    {
+      "id": "CAr0LGW"
+    },
+    {
+      "id": "Asn_z2k"
+    },
+    {
+      "id": "PFAVmbE"
+    },
+    {
+      "id": "wgwEBOi"
+    },
+    {
+      "id": "4kKt-SS"
+    },
+    {
+      "id": "sAoRdQD"
+    },
+    {
+      "id": "j6u3Nif"
+    }
+  ]
+}
